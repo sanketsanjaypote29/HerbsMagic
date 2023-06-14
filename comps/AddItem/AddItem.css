@@ -1,0 +1,21 @@
+.add-item{
+    position: fixed;
+    bottom: 50px;
+    right:50px;
+}
+.add-item-btn{
+    width: 80px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:#fff;
+    background: #1DA772;
+    border: 2px solid transparent;
+    box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.3);
+    border-radius: 40px;
+    cursor: pointer;
+}
+.add-item-btn svg{
+    width: 40px;
+}
